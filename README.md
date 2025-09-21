@@ -42,9 +42,8 @@
 ---
 
 ## 🚀 Featured Projects
-- ✈️ [Airline Ticket Booking System](https://github.com/1abdelrahman-ahmed/AirlineTicketBookingSystem)  
-- 🤖 [COVID-19 Outcome Prediction (Machine Learning)](#)  
-- ⚡ [Problem Solving (Competitive Programming)](#)  
+- ✈️ [Airline Ticket Booking System - Java](https://github.com/1abdelrahman-ahmed/AirlineTicketBookingSystem)  
+- 🤖 [Attendance App - Python]([#](https://github.com/1abdelrahman-ahmed/AttendanceApp))  
 
 ---
 
