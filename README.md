@@ -26,13 +26,9 @@
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
-<p align="center">
-    <a href="https://github.com/1abdelrahman-ahmed/github-readme-streak-stats">
-        <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1abdelrahman-ahmed&theme=react&hide_border=true&background=0D1117"/>
-    </a>
-</p>
+
 
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=1abdelrahman-ahmed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
@@ -40,7 +36,7 @@
 </p>
 
 ---
-
+-->
 ## 🚀 Featured Projects
 - ✈️ [Airline Ticket Booking System - Java](https://github.com/1abdelrahman-ahmed/AirlineTicketBookingSystem)  
 - 🤖 [Attendance App - Python]([#](https://github.com/1abdelrahman-ahmed/AttendanceApp))  
