@@ -39,7 +39,7 @@
 -->
 ## 🚀 Featured Projects
 - ✈️ [Airline Ticket Booking System - Java](https://github.com/1abdelrahman-ahmed/AirlineTicketBookingSystem)  
-- 🤖 [Attendance App - Python]([#](https://github.com/1abdelrahman-ahmed/AttendanceApp))  
+- 🤖 [Attendance App - Python](https://github.com/1abdelrahman-ahmed/AttendanceApp)  
 
 ---
 
